@@ -1,5 +1,3 @@
-这段代码定义了一个包含 getter 和 setter 的对象 `obj`。具体来说：
-
 ### 示例：
 
 ```javascript
@@ -20,6 +18,8 @@ console.log(obj.foo); // 获取 foo 值时，触发 getter 方法
 ```
 
 ### 解释：
+
+这段代码定义了一个包含 getter 和 setter 的对象 `obj`。具体来说：
 
 1. **getter** (`get foo()`):
 
