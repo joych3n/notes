@@ -1,0 +1,9 @@
+# 选题
+## getter 和 setter 
+## 原型
+
+引入写不写路径，怎么找模板
+
+define是require.js的一个方法吗
+
+把同一个内容发到不同平台：知乎、github、抖音、B站、youtube
