@@ -2,6 +2,8 @@
 
 ## 开发
 - 原型
+- Generator 
+- Async
 - 把同一个内容发到不同平台：知乎、github、抖音、B站、youtube
 
 ## 认知
