@@ -1,6 +1,6 @@
 ## 含义
 
-async 函数是什么？一句话，它就是 Generator 函数的语法糖
+async 函数是什么？一句话，它就是 Generator 函数的语法糖。
 
 ```js
 const genReadFile = function* () {
