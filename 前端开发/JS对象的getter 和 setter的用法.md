@@ -1,4 +1,6 @@
-### 示例：
+# JS 对象的 getter 和 setter 的用法
+
+### 示例
 
 ```javascript
 const obj = {
@@ -17,7 +19,7 @@ obj.foo = 42; // 设置 foo 值时，触发 setter 方法
 console.log(obj.foo); // 获取 foo 值时，触发 getter 方法
 ```
 
-### 解释：
+### 解释
 
 这段代码定义了一个包含 getter 和 setter 的对象 `obj`。具体来说：
 

@@ -1,9 +1,11 @@
+# Element Plus Tabel 表格异步加载展开行
+
 ## 1、基础用法
 
 当行内容过多并且不想显示横向滚动条时，可以使用 Table 展开行功能。
 通过设置 type="expand" 和 slot 可以开启展开行功能， el-table-column 的模板会被渲染成为展开行的内容，展开行可访问的属性与使用自定义列模板时的 slot 相同。
 
-### 代码示例
+### 代码示例 1
 
 ```js
 <template>
@@ -34,7 +36,7 @@
 
 在 expand-change 事件中，第一次展开时，请求当前行下展开行的数据，并标记当前行为“已展开过”
 
-### 代码示例
+### 代码示例 2
 
 ```js
 function handleExpandChange(row: any, expandedRows: []) {
