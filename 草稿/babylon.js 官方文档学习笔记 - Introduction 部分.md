@@ -1,4 +1,4 @@
-# babylon.js 官方文档学习笔记 - Features 部分
+# babylon.js 官方文档学习笔记 - Introduction 部分
 
 ## 第一
 
@@ -32,7 +32,7 @@ BABYLON.SceneLoader.ImportMeshAsync(model_name, folder_path, file_name, scene);
 
 ## 建设一个村庄
 
-### 让世界接地气
+### 让世界接地
 
 ```javascript
 const ground = BABYLON.MeshBuilder.CreateGround("ground", {
