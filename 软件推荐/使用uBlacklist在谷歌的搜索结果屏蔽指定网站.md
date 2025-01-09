@@ -12,4 +12,4 @@
 
 打开 uBlacklist 的“拓展选项”，将需要屏蔽的网站添加到其中。之后 google 的搜索结果中就不会显示指定网站了。比如我需要屏蔽 csdn 这个网站，只需要添加这个规则*://blog.csdn.net/*，搜索结果中不会显示 csdn 了，也可以点击“显示”查看屏蔽的网站，如图：
 
-![uBlacklist01](./01.png "uBlacklist01")
+![uBlacklist01](/img/uBlacklist.png "uBlacklist01")
