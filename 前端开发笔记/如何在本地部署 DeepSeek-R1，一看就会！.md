@@ -1,8 +1,8 @@
-如何在本地部署 DeepSeek，一看就会！
+如何在本地部署 DeepSeek-R1，一看就会！
 
-最近国产 AI 大模型 DeepSeek 爆火出圈，登顶中美 App Store 下载榜，还在性能、成本上碾压了 ChatGPT 和 Google Gemini 等硅谷巨头，直接杀入科技圈 C 位，成为现象级应用！
+最近国产 AI 大模型 DeepSeek-R1 爆火出圈，登顶中美 App Store 下载榜，还在性能、成本上碾压了 ChatGPT 和 Google Gemini 等硅谷巨头，直接杀入科技圈 C 位，成为现象级应用！
 
-DeepSeek 是一个开源模型，今天就跟大家分享一下，如何将 DeepSeek 部署在你的电脑上。
+但是 DeepSeek 官网频繁提示服务器繁忙，经常不能正常使用，DeepSeek-R1 是一个开源模型，今天就跟大家分享一下，如何将 DeepSeek-R1 部署在你的电脑上。
 
 ## 第 1 步：Ollama 环境搭建
 
@@ -28,8 +28,8 @@ DeepSeek 是一个开源模型，今天就跟大家分享一下，如何将 Deep
 
 ## 第 4 步：开始对话
 
-1、下载完成后，你的电脑就成功拥有了一个离线 DeepSeek，就算断网也能使用。此时，你可以直接在命令行里输入问题，与模型开始互
+1、下载完成后，你的电脑就成功拥有了一个离线 DeepSeek-R1，就算断网也能使用。此时，你可以直接在命令行里输入问题，与模型开始互
 
 ![deepseek3](/img/deepseek3.png)
 
-2、关闭 cmd 后，下次想与 DeepSeek 聊天，重复第 3 步即可。如果不习惯命令行窗口里面对话，可以安装 Open-WebUI 或 Chatbox，此处不再赘叙。
+2、关闭 cmd 后，下次想与 DeepSeek-R1 聊天，重复第 3 步即可。如果不习惯命令行窗口里面对话，可以安装 Open-WebUI 或 Chatbox，此处不再赘叙。
