@@ -6,13 +6,9 @@
 
 今天分享 deepseek-R1 最佳使用姿势：硅基流动部署 + Chatbox。方法简单，成本极低，高效便捷，高效便捷，还是性能最强的 671b 满血版。
 
-1、注册硅基流动账号
+1、注册硅基流动账号：[官网注册地址](https://account.siliconflow.cn/zh/login)
 
-- 我的注册邀请链接：https://cloud.siliconflow.cn/i/aqCGx8p4
-- 我的注册邀请码：aqCGx8p4
-- ![邀请码](/img/share_siliconflow.png)
-
-> 【通过我的邀请注册，我们都能获得两千万 token】
+> 通过我的邀请码【aqCGx8p4】注册，我们都能获得两千万 token
 
 2、登录硅基流动，获取 API 密钥
 
