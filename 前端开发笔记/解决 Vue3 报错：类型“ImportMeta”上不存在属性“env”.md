@@ -6,7 +6,7 @@
 let baseUrl = import.meta.env.VITE_BASE_URL;
 ```
 
-如果遇到报错：`类型“ImportMeta”上不存在属性“env”`,可以在`src/env.d.ts`文件添加一下代码：
+如果遇到报错：`类型“ImportMeta”上不存在属性“env”`,可以在`src/env.d.ts`文件添加以下代码：
 
 ```javascript
 // src/env.d.ts
